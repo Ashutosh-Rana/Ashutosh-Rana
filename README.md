@@ -1,8 +1,8 @@
 - 👋 Hi, I’m **Ashutosh Rana**.
 - 👀 I’m interested in Flutter Development, Firebase and Competetive programming.
-- 🌱 I’m currently learning Flutter.
+- 🌱 I’m currently working on a flutter based college app.
 - 💞️ I’m looking to collaborate on any Flutter based projects.
-- :computer: I'm currently a 2nd year student of IIIT Dharwad.
+- :computer: I'm currently a 3rd year student of IIIT Dharwad.
 - 📫 How to reach me : Email - ashutoshrana978@gmail.com
 
 
