@@ -1,5 +1,5 @@
 - 👋 Hi, I’m **Ashutosh Rana**.
-- 👀 I’m interested in Flutter Development and Competetive programming.
+- 👀 I’m interested in Competetive Programming and Flutter Development.
 - :computer: I'm currently a 4th year student of IIIT Dharwad.
 - 📫 How to reach me : Email - ashutoshrana978@gmail.com
 
